@@ -561,22 +561,19 @@ background: linear-gradient(90deg, rgba(0,0,0,0.9529936974789917) 64%, rgba(44,7
     }
 
     .dropbtn {
-        background-color: #827e7e;
+        background-color: #131313;
         color: white;
-        padding: 16px;
-        font-size: 6px;
+        padding: 6px;
+        font-size: 15px;
         border: none;
         cursor: pointer;
         opacity: 1;
       }
       
       .dropbtn:hover, .dropbtn:focus {
-        background-color: #180f0f;
+        background-color: #090909;
       }
-      .hamburger-button{
-        width:20px;
-        height:15px;
-      }
+
       
       .dropdown {
         position: relative;
