@@ -280,16 +280,16 @@
 
 #project1{
     background-image: url(./images/tindog2img.png);
-    background-size: cover;
+    background-size: 100%;
 }
 #project2{
     background-image: url(./images/indianzaykaimg.jpg);
-    background-size: cover;
+    background-size: 100%;
     margin-left: 30%;
 }
 #project3{
     background-image: url(./images/blackjackimg.png);
-    background-size: cover;
+    background-size: 100%;
     margin-bottom: 10%;
 }
 
